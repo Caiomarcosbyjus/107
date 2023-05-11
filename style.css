@@ -1,0 +1,16 @@
+body{
+background-color: blue;
+
+}
+
+.main_div{
+background: aquamarine;
+
+}
+
+.main_div button{
+ 
+ height: 20px;
+width: 100px;
+ font-size : 15px;
+}
